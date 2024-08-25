@@ -1,0 +1,41 @@
+.one{
+    background-color:beige;
+    color:brown;
+    border:2px light gray;
+    text-align:center;
+    text-decoration:underline;
+}
+
+body{
+    background-color:black;
+    color:white;
+    font-size:100%;
+}
+h2{
+    text-decoration:underline;
+    text-transform:uppercase;
+    padding-bottom:10px;
+    color:darkseagreen;
+}
+.im1{
+    padding-left:80%;
+    height:90px;
+    width:120px;
+    display:flex;
+    flex:1;
+}
+.imchange{
+    height:30px;
+    width:30px;
+    position:absolute;
+}
+
+.changes{
+    padding-left:40px;
+}
+.extensions{
+    padding-bottom:5px;
+    padding-left:10px;
+    padding-right:10px;
+    padding-bottom:10px;
+}
